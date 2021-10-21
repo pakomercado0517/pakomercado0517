@@ -2,7 +2,7 @@
 #### Soy desarrollador Fullstack
 ![Soy desarrollador Fullstack](https://github.com/pakomercado0517/PakoMercado/blob/main/Azul%20Vector%20Ilustraciones%20General%20LinkedIn%20Banner.png?raw=)
 
-Soy un desarrollador FullStack, con muchas ganas de avanzar, aprender y obtener experiencias en este bonito ámbito. Soy una persona que le gusta cumplir metas. Además de colaborar, apoyar y aportar de lo poco o mucho que tengo de experiencia. Me adapto fácilmente al entorno en el que se me asigne estar y me gusta crear un buen ambiente cuando se trata de trabajar en equipo. Dejando el ámbito laboral, me gusta mucho ir de pesca, jugar videojuegos, pero lo que más me apasiona, es pasar tiempo con mis hijos y esposa. Soy una persona muy motivada a mejorar en mis skills, ya que, además de sentirme bien conmigo mismo, me encantaría darles ese ejemplo a mis hijos.
+Soy una persona, con muchas ganas de avanzar, aprender y obtener experiencias en este bonito ámbito de la programación. Soy alguien super motivado que le gusta cumplir metas. Además de colaborar, apoyar y aportar de lo poco o mucho que tengo de experiencia. Me adapto fácilmente al entorno en el que se me asigne estar y me gusta crear un buen ambiente cuando se trata de trabajar en equipo. Dejando el ámbito laboral, me gusta mucho ir de pesca, jugar videojuegos, pero lo que más me apasiona, es pasar tiempo con mis hijos y esposa. Soy una persona muy motivada a mejorar en mis skills, ya que, además de sentirme realiado como persona, me encantaría darles ese ejemplo a mis hijos.
 
 Habilidades:  REACT / JS / NODE JS / EXPRESS / POSTGRESQL / SEQUELIZE
 
