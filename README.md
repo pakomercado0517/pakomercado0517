@@ -18,6 +18,4 @@ Habilidades:  REACT / JS / NODE JS / EXPRESS / POSTGRESQL / SEQUELIZE
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pakomercado0517&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pakomercado0517)  
-
 ![Profile views](https://gpvc.arturio.dev/pakomercado0517)  
