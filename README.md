@@ -2,12 +2,12 @@
 #### Soy desarrollador Fullstack
 ![Soy desarrollador Fullstack](https://github.com/pakomercado0517/PakoMercado/blob/main/Azul%20Vector%20Ilustraciones%20General%20LinkedIn%20Banner.png?raw=)
 
-Soy una persona, con muchas ganas de avanzar, aprender y obtener experiencias en este bonito ámbito de la programación. Soy alguien super motivado que le gusta cumplir metas. Además de colaborar, apoyar y aportar de lo poco o mucho que tengo de experiencia. Me adapto fácilmente al entorno en el que se me asigne estar y me gusta crear un buen ambiente cuando se trata de trabajar en equipo. Dejando el ámbito laboral, me gusta mucho ir de pesca, jugar videojuegos, pero lo que más me apasiona, es pasar tiempo con mis hijos y esposa. Soy una persona muy motivada a mejorar en mis skills, ya que, además de sentirme realiado como persona, me encantaría darles ese ejemplo a mis hijos.
+Soy un desarrollador web apasionado por la tecnología y en constante crecimiento. Me encanta aprender, asumir nuevos retos y adquirir experiencia en el fascinante mundo del desarrollo. Me motiva alcanzar objetivos, colaborar en equipo y aportar mis conocimientos para lograr resultados de calidad. Me adapto con facilidad a distintos entornos y disfruto creando un ambiente positivo y enfocado al trabajo en equipo.
 
-Habilidades:  REACT / JS / NODE JS / EXPRESS / POSTGRESQL / SEQUELIZE
+Entre mis principales habilidades técnicas se encuentran: React, JavaScript, Node.js, Express, PostgreSQL y Sequelize.
 
-- 🔭 Estoy trabajando en Creando una app con React Native llamada McLovin 
-- 🌱 Estoy aprendiendo React Native, NodeJS, Express, PostgreSQL y ReactJS 
+Fuera del entorno profesional, disfruto ir de pesca, jugar videojuegos y, sobre todo, pasar tiempo con mi esposa e hijos. Mejorar mis habilidades no solo me permite crecer como profesional, sino también ser un ejemplo de esfuerzo y dedicación para ellos.
+
 - 📫 Cómo contactarme: fgme.facturacion@gmail.com, sissyayyle0517@hotmail.com 
 - 😄 Pronombres: Pako 
 
