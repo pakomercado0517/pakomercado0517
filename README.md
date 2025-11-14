@@ -58,7 +58,23 @@ Demostrando consistencia y dedicación a mi trabajo en GitHub.
   <a href="https://www.facebook.com/PakoMercado85" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-              srcset="https://skil
+              srcset="https://skillicons.dev/icons?i=facebook&amp;theme=dark">
+      <img height="35" alt="facebook" 
+           src="https://skillicons.dev/icons?i=facebook&amp;theme=light">
+    </picture>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/pakomercado0517/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://skillicons.dev/icons?i=instagram&amp;theme=dark">
+      <img height="35" alt="instagram" 
+           src="https://skillicons.dev/icons?i=instagram&amp;theme=light">
+    </picture>
+  </a>
+
+</p>
 
 
 <br>
