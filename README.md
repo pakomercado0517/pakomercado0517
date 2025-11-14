@@ -35,35 +35,29 @@ Demostrando consistencia y dedicación a mi trabajo en GitHub.
 - 😄 **Pronombres:** Pako
 
 <p align="left">
-<p align="left">
   <a href="https://github.com/pakomercado0517" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg?color=FFFFFF">
-      <img alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg?color=000000" height="30">
+      <img alt="github" src="https://cdn.simpleicons.org/github/000000/FFFFFF" height="30">
     </picture>
   </a>
   
   <a href="https://www.linkedin.com/in/francisco-mercado-escalante/" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?color=FFFFFF">
-      <img alt="linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?color=000000" height="30">
+      <img alt="linkedin" src="https://cdn.simpleicons.org/linkedin/000000/FFFFFF" height="30">
     </picture>
   </a>
   
   <a href="https://www.facebook.com/PakoMercado85" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg?color=FFFFFF">
-      <img alt="facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg?color=000000" height="30">
+      <img alt="facebook" src="https://cdn.simpleicons.org/facebook/000000/FFFFFF" height="30">
     </picture>
   </a>
   
   <a href="https://www.instagram.com/pakomercado0517/" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg?color=FFFFFF">
-      <img alt="instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg?color=000000" height="30">
+      <img alt="instagram" src="https://cdn.simpleicons.org/instagram/000000/FFFFFF" height="30">
     </picture>
   </a>
-</p>
 </p>
 
 <br>
