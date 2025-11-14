@@ -15,10 +15,17 @@
 
 Mi stack principal de desarrollo se visualiza automáticamente para el tema que uses en GitHub:
 
+### 🛠️ Tecnologías y Herramientas
+
+Mi stack principal de desarrollo se visualiza automáticamente para el tema que uses en GitHub:
+
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,javascript,nodejs,express,postgresql,sequelize&perline=6&theme=dark" alt="Stack - Dark Mode">
-    <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,express,postgresql,sequelize&perline=6&theme=light" alt="Stack - Light Mode">
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://skillicons.dev/icons?i=react,nextjs,typescript,js,nodejs,nestjs,express,postgresql,sequelize&perline=6&theme=dark" 
+            alt="Stack - Dark Mode">            
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,nodejs,nestjs,express,postgresql,sequelize&perline=6&theme=light" 
+         alt="Stack - Light Mode">
   </picture>
 </p>
 
