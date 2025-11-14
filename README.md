@@ -1,20 +1,73 @@
-### Hola 👋, Mi nombre es Francisco
-#### Soy desarrollador Fullstack
-![Soy desarrollador Fullstack](https://github.com/pakomercado0517/PakoMercado/blob/main/Azul%20Vector%20Ilustraciones%20General%20LinkedIn%20Banner.png?raw=)
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=pakomercado0517&label=PERFIL%20VISTO&color=blue&style=flat" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=👋+HOLA%2C+SOY+FRANCISCO;FULLSTACK+DEVELOPER+💻" alt="Typing SVG" />
+  
+</div>
 
-Soy un desarrollador web apasionado por la tecnología y en constante crecimiento. Me encanta aprender, asumir nuevos retos y adquirir experiencia en el fascinante mundo del desarrollo. Me motiva alcanzar objetivos, colaborar en equipo y aportar mis conocimientos para lograr resultados de calidad. Me adapto con facilidad a distintos entornos y disfruto creando un ambiente positivo y enfocado al trabajo en equipo.
+---
 
-Entre mis principales habilidades técnicas se encuentran: React, JavaScript, Node.js, Express, PostgreSQL y Sequelize.
+> Apasionado **Desarrollador Fullstack** en constante crecimiento, especializado en la creación de soluciones web robustas y escalables. Me encanta **aprender**, asumir **nuevos retos** y colaborar en equipo para lograr resultados de alta calidad.
 
-Fuera del entorno profesional, disfruto ir de pesca, jugar videojuegos y, sobre todo, pasar tiempo con mi esposa e hijos. Mejorar mis habilidades no solo me permite crecer como profesional, sino también ser un ejemplo de esfuerzo y dedicación para ellos.
+<br>
 
-- 📫 Cómo contactarme: fgme.facturacion@gmail.com, sissyayyle0517@hotmail.com 
-- 😄 Pronombres: Pako 
+### 🛠️ Tecnologías y Herramientas
+
+Mi stack principal de desarrollo se visualiza automáticamente para el tema que uses en GitHub:
+
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,nestjs,express,postgresql,sequelize)(https://skillicons.dev)
+
+---
+
+### 🔥 Mi Actividad y Estadísticas de Desarrollo
+
+Demostrando consistencia y dedicación a mi trabajo en GitHub.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pakomercado0517&theme=dark&background=00000000&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+---
+
+### 🌐 Conéctate Conmigo
+
+- 📧 **Correo Electrónico:** fgme.facturacion@gmail.com
+- 😄 **Pronombres:** Pako
+
+<p align="left">
+
+  <!-- GitHub -->
+  <a href="https://github.com/pakomercado0517" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://skillicons.dev/icons?i=github&amp;theme=dark">
+      <img height="35" alt="github" 
+           src="https://skillicons.dev/icons?i=github&amp;theme=light">
+    </picture>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/francisco-mercado-escalante/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://skillicons.dev/icons?i=linkedin&amp;theme=dark">
+      <img height="35" alt="linkedin" 
+           src="https://skillicons.dev/icons?i=linkedin&amp;theme=light">
+    </picture>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/pakomercado0517/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://skillicons.dev/icons?i=instagram&amp;theme=dark">
+      <img height="35" alt="instagram" 
+           src="https://skillicons.dev/icons?i=instagram&amp;theme=light">
+    </picture>
+  </a>
+
+</p>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pakomercado0517)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/francisco-mercado-escalante/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/PakoMercado85)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pakomercado0517/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pakomercado0517)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pakomercado0517&show_icons=true)  
-
+<br>
+<p align="center">
+  > *Fuera del código, disfruto ir de pesca, jugar videojuegos y pasar tiempo con mi familia.*
+</p>
