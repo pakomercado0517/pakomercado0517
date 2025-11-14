@@ -41,9 +41,10 @@ Demostrando consistencia y dedicación a mi trabajo en GitHub.
     </picture>
   </a>
   
-  <a href="https://www.linkedin.com/in/francisco-mercado-escalante/" target="_blank">
+<a href="https://www.linkedin.com/in/francisco-mercado-escalante/" target="_blank">
     <picture>
-      <img alt="linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg/000000/FFFFFF" height="30">
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg?color=FFFFFF">
+      <img alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg?color=000000" height="30">
     </picture>
   </a>
   
