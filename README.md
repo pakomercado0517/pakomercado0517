@@ -35,10 +35,35 @@ Demostrando consistencia y dedicación a mi trabajo en GitHub.
 - 😄 **Pronombres:** Pako
 
 <p align="left">
-  <a href="https://github.com/pakomercado0517" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30"></a>
-  <a href="https://www.linkedin.com/in/francisco-mercado-escalante/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"></a>
-  <a href="https://www.facebook.com/PakoMercado85" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"></a>
-  <a href="https://www.instagram.com/pakomercado0517/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30"></a>
+<p align="left">
+  <a href="https://github.com/pakomercado0517" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg?color=FFFFFF">
+      <img alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg?color=000000" height="30">
+    </picture>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/francisco-mercado-escalante/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?color=FFFFFF">
+      <img alt="linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?color=000000" height="30">
+    </picture>
+  </a>
+  
+  <a href="https://www.facebook.com/PakoMercado85" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg?color=FFFFFF">
+      <img alt="facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg?color=000000" height="30">
+    </picture>
+  </a>
+  
+  <a href="https://www.instagram.com/pakomercado0517/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg?color=FFFFFF">
+      <img alt="instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg?color=000000" height="30">
+    </picture>
+  </a>
+</p>
 </p>
 
 <br>
