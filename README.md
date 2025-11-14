@@ -15,15 +15,7 @@
 
 Mi stack principal de desarrollo se visualiza automáticamente para el tema que uses en GitHub:
 
- <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,nestjs,express,postgresql,sequelize&amp;perline=6&amp;theme=dark" 
-            alt="Stack - Dark Mode">            
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,nestjs,express,postgresql,sequelize&amp;perline=6&amp;theme=light" 
-         alt="Stack - Light Mode">
-  </picture>
-</p>
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,nestjs,express,postgresql,sequelize)(https://skillicons.dev)
 
 ---
 
@@ -41,34 +33,33 @@ Demostrando consistencia y dedicación a mi trabajo en GitHub.
 - 😄 **Pronombres:** Pako
 
 <p align="left">
+
+  <!-- GitHub -->
   <a href="https://github.com/pakomercado0517" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg?color=FFFFFF">
-      <img alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg?color=000000" height="30">
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://skillicons.dev/icons?i=github&amp;theme=dark">
+      <img height="35" alt="github" 
+           src="https://skillicons.dev/icons?i=github&amp;theme=light">
     </picture>
   </a>
-  
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/francisco-mercado-escalante/" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg?color=FFFFFF">
-      <img alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg?color=000000" height="30">
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://skillicons.dev/icons?i=linkedin&amp;theme=dark">
+      <img height="35" alt="linkedin" 
+           src="https://skillicons.dev/icons?i=linkedin&amp;theme=light">
     </picture>
   </a>
-  
+
+  <!-- Facebook -->
   <a href="https://www.facebook.com/PakoMercado85" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg?color=FFFFFF">
-      <img alt="facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg?color=000000" height="30">
-    </picture>
-  </a>
-  
-  <a href="https://www.instagram.com/pakomercado0517/" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg?color=FFFFFF">
-      <img alt="instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg?color=000000" height="30">
-    </picture>
-  </a>
-</p>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://skil
+
 
 <br>
 <p align="center">
