@@ -1,7 +1,7 @@
 <div align="center">
   
-# ¡Hola! Soy Francisco 👋
-### Desarrollador Fullstack | 💻 Creando Soluciones Web
+  <img src="https://komarev.com/ghpvc/?username=pakomercado0517&label=PERFIL%20VISTO&color=blue&style=flat" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=👋+HOLA%2C+SOY+FRANCISCO;FULLSTACK+DEVELOPER+💻" alt="Typing SVG" />
   
 </div>
 
@@ -13,10 +13,13 @@
 
 ### 🛠️ Tecnologías y Herramientas
 
-Aquí tienes un vistazo rápido a mi stack principal de desarrollo:
+Mi stack principal de desarrollo se visualiza automáticamente para el tema que uses en GitHub:
 
 <p align="left">
-  <a href="https://reactjs.org" target="_blank"> <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,express,postgresql,sequelize&theme=dark" alt="Mis Habilidades"> </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,javascript,nodejs,express,postgresql,sequelize&perline=6&theme=dark" alt="Stack - Dark Mode">
+    <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,express,postgresql,sequelize&perline=6&theme=light" alt="Stack - Light Mode">
+  </picture>
 </p>
 
 ---
@@ -37,11 +40,12 @@ Demostrando consistencia y dedicación a mi trabajo en GitHub.
 <p align="left">
   <a href="https://github.com/pakomercado0517" target="_blank">
     <picture>
-      <img alt="github" src="https://cdn.simpleicons.org/github/000000/FFFFFF" height="30">
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg?color=FFFFFF">
+      <img alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg?color=000000" height="30">
     </picture>
   </a>
   
-<a href="https://www.linkedin.com/in/francisco-mercado-escalante/" target="_blank">
+  <a href="https://www.linkedin.com/in/francisco-mercado-escalante/" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg?color=FFFFFF">
       <img alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg?color=000000" height="30">
@@ -50,13 +54,15 @@ Demostrando consistencia y dedicación a mi trabajo en GitHub.
   
   <a href="https://www.facebook.com/PakoMercado85" target="_blank">
     <picture>
-      <img alt="facebook" src="https://cdn.simpleicons.org/facebook/000000/FFFFFF" height="30">
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg?color=FFFFFF">
+      <img alt="facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg?color=000000" height="30">
     </picture>
   </a>
   
   <a href="https://www.instagram.com/pakomercado0517/" target="_blank">
     <picture>
-      <img alt="instagram" src="https://cdn.simpleicons.org/instagram/000000/FFFFFF" height="30">
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg?color=FFFFFF">
+      <img alt="instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg?color=000000" height="30">
     </picture>
   </a>
 </p>
