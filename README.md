@@ -43,7 +43,7 @@ Demostrando consistencia y dedicación a mi trabajo en GitHub.
   
   <a href="https://www.linkedin.com/in/francisco-mercado-escalante/" target="_blank">
     <picture>
-      <img alt="linkedin" src="https://cdn.simpleicons.org/linkedin/000000/FFFFFF" height="30">
+      <img alt="linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg/000000/FFFFFF" height="30">
     </picture>
   </a>
   
