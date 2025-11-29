@@ -23,7 +23,7 @@ Mi stack principal de desarrollo se visualiza automáticamente para el tema que 
 
 Demostrando consistencia y dedicación a mi trabajo en GitHub.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pakomercado0517&theme=dark&background=00000000&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pakomercado0517)](https://git.io/streak-stats)
 
 ---
 
