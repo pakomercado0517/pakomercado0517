@@ -15,7 +15,7 @@
 
 Mi stack principal de desarrollo se visualiza automáticamente para el tema que uses en GitHub:
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,nestjs,express,postgresql,sequelize)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,astro,ts,js,nodejs,nestjs,express,postgresql,sequelize)](https://skillicons.dev)
 
 ---
 
