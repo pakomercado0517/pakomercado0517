@@ -71,3 +71,43 @@ Demostrando consistencia y dedicación a mi trabajo en GitHub.
 <p align="center">
   > *Fuera del código, disfruto ir de pesca, jugar videojuegos y pasar tiempo con mi familia.*
 </p>
+
+---
+
+### 🚀 Actualmente Construyendo
+
+- 🧠 Micro-SaaS enfocados en automatización contable y organización financiera.
+- 🏗️ Herramientas internas para empresas dentro de **TresA Design**.
+- 📦 Proyectos personales donde experimento con arquitectura limpia, multi-tenant y escalabilidad.
+- 🤖 Explorando integración de IA como capa de soporte en aplicaciones reales.
+
+Me gusta construir productos que realmente se usen, no solo proyectos de portafolio.
+
+---
+
+### 💡 Mi Forma de Trabajar
+
+- Prefiero código claro antes que código “ingenioso”.
+- Me gusta estructurar proyectos pensando en escalabilidad desde el inicio.
+- Intento que cada proyecto tenga propósito real.
+- Creo que la experiencia de usuario es tan importante como la arquitectura.
+
+No programo solo por programar, programo para resolver problemas.
+
+
+---
+
+### 🏢 TresA Design
+
+TresA Design es mi espacio para crear soluciones digitales prácticas para negocios reales.  
+Aquí desarrollo herramientas web enfocadas en productividad, automatización y optimización de procesos administrativos.
+
+Más que vender software, busco construir soluciones útiles y sostenibles.
+
+---
+
+### 📌 Actualmente Abierto a
+
+- Colaboraciones en proyectos interesantes.
+- Networking con desarrolladores y emprendedores.
+- Oportunidades para crear productos digitales escalables.
