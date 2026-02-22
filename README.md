@@ -7,7 +7,7 @@
 
 ---
 
-> Apasionado **Desarrollador Fullstack** en constante crecimiento, especializado en la creación de soluciones web robustas y escalables. Me encanta **aprender**, asumir **nuevos retos** y colaborar en equipo para lograr resultados de alta calidad.
+> Soy Francisco "Pako" Mercado, FullStack Developer. Me especializo en crear soluciones web robustas con Javascript, Typescript, React, NodeJS, PostgreSQL, entre otros más. Actualmente construyo proyectos propios y también trabajo en mi emprendimiento TresA Design, don de desarrollo herramientas prácticas para empresas
 
 <br>
 
